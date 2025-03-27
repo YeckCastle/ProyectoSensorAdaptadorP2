@@ -1,0 +1,3 @@
+#Funcionamiento/ Realización
+El Sistema de temperatura para Alarma de incendio realiza que al tener la temperatura más alta de 40 grados Celsius,
+esté encenderá el led Rojo y sonará el buzzer, y pedirá la contraseña que para apagarla es 1234, y al escribirlo, saldrá el led verde simulando que ya lo han apagado.
